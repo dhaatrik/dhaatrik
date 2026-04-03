@@ -1,4 +1,4 @@
-# Hey, I'm DhaatuTheGamer! 👋
+# Hey, I'm Dhaatrik Chowdhury! 👋
 
 Welcome to my GitHub playground! 🎮 I’m Dhaatrik, aka **DhaatuTheGamer**, where my motto *“Whatever It Takes”* fuels every line of code I write. Think of me as a curious coder, relentless tinkerer, and a guy who’s not afraid to break things to build them better. My repos are my digital diary—bursting with experiments, wild ideas, and a pinch of “oops, let’s debug that!” 😅
 
