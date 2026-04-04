@@ -4,11 +4,11 @@ Welcome to my GitHub playground! 🎮 I’m Dhaatrik, aka **DhaatuTheGamer**, wh
 
 ## What’s My Deal? 💻  
 I turn caffeine into code and chaos into cool projects. Here’s a peek at what I’ve been cooking up:  
-- 🗒️ **[simple-todo-list](https://github.com/DhaatuTheGamer/simple-todo-list)**: A clean, no-fuss to-do app built with HTML, CSS, and JavaScript.  
-- 🔒 **[homomorphic-encryption-library](https://github.com/DhaatuTheGamer/homomorphic-encryption-library)**: Diving into the cryptic world of secure computation.  
-- 📈 **[real-time-financial-market-simulator](https://github.com/DhaatuTheGamer/real-time-financial-market-simulator)**: Python-powered market vibes, moving fast!  
-- ⚙️ **[distributed-task-queue](https://github.com/DhaatuTheGamer/distributed-task-queue)**: Because I love systems that juggle tasks like a pro.  
-- 🩺 **[vireo-wellness](https://github.com/DhaatuTheGamer/vireo-wellness)**: A TypeScript app to track health and wellness—coding for a better life!  
+- 🗒️ **[simple-todo-list](https://github.com/dhaatrik/simple-todo-list)**: A clean, no-fuss to-do app built with HTML, CSS, and JavaScript.  
+- 🔒 **[homomorphic-encryption-library](https://github.com/dhaatrik/homomorphic-encryption-library)**: Diving into the cryptic world of secure computation.  
+- 📈 **[real-time-financial-market-simulator](https://github.com/dhaatrik/real-time-financial-market-simulator)**: Python-powered market vibes, moving fast!  
+- ⚙️ **[distributed-task-queue](https://github.com/dhaatrik/distributed-task-queue)**: Because I love systems that juggle tasks like a pro.  
+- 🩺 **[vireo-wellness](https://github.com/dhaatrik/vireo-wellness)**: A TypeScript app to track health and wellness—coding for a better life!  
 
 ## The Real Me (No Filter) 😎  
 I’m a learning junkie, and every repo here is a badge of my curiosity. I stumble, I debug, I grow—like leveling up in a video game through epic fails. Beyond code, I’m:  
