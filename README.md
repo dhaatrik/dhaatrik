@@ -67,6 +67,11 @@ I’m a firm believer that **"knowledge kept secret is knowledge wasted"**. In t
 If you're an aspiring founder or just curious about the messiness of building from 0 to 1, stay tuned—I’m sharing it all so you can learn from my wins and, more importantly, my mistakes.
 
 ## 🤖 The Infinite Intelligence 👉 [Repository Link](https://github.com/dhaatrik/the-infinite-intelligence)
+
+<div align="center">
+  <img src="./public/the-infinite_intelligence_logo.png" width="100"/>
+</div>
+
 #### **The Mission Statement:**
 To transcend the limitations of single-model AI by simulating a collaborative "council of experts" that debates, critiques, and synthesizes complex problems into high-fidelity, actionable intelligence.
 
