@@ -66,7 +66,7 @@ Hey, I'm Dhaatrik. I build software by deconstructing problems into their core p
 - **Deep Transmissions:** [Why It's Not Professional Grade](https://dhaatrik.github.io/transmissions/deltav-lab-not-professional-grade/) • [Native Physics Core Migration](https://dhaatrik.github.io/transmissions/deltav-lab-native-physics-core/)
 
 #### 2. Vellor — Zero-Knowledge Local Tutoring OS
-- **The Architecture:** Runs entirely on the client device. All data is encrypted with AES-GCM before writing to `localStorage`. Features virtualized student rosters and $O(N)$ operations for instant lookups on low-end hardware.
+- **The Architecture:** Runs entirely on the client device. All data is encrypted with AES-GCM before writing to local client storage (IndexedDB via localForage). Features virtualized student rosters and $O(N)$ operations for instant lookups on low-end hardware.
 - **The Fuckup & Root Cause:** I almost derailed the project by building RPG-style gamification, badges, and levels. That visual noise cluttered the core payment and lesson logging path. I stripped celebration chrome from the transaction flow and moved gamification into a separate optional view.
 - **Honest Limitations:** Zero-server architecture means no automatic multi-device synchronization. Users own their disaster recovery through JSON exports.
 - **Deep Transmissions:** [The Gamification Trap](https://dhaatrik.github.io/transmissions/vellor-gamification-trap/) • [Local Backup Reality](https://dhaatrik.github.io/transmissions/vellor-local-backup-reality/)
